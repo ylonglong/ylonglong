@@ -1,1 +1,1 @@
-v1.2，https://github.com/ylonglong/ylonglong/blob/master/ControlV9F.apk
+v1.2,https://github.com/ylonglong/ylonglong/blob/master/ControlV9F.apk
